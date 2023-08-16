@@ -7,6 +7,7 @@ def bestSort():
         print(list)
         shuffle(list)
     print("\nYour sorted list is: ", list)
+    print("That's a pretty nice list")
 
 
 n = int(input("enter no. of elements: "))
